@@ -5,8 +5,6 @@ GitHub-ready source and release package for the Super Axiom Force update that re
 ## Included
 
 - `source/SuperAxiomForce/` - source snapshot used for this build.
-- `SuperAxiomForce.asi` - tested ASI build.
-- `SuperAxiomForce.ini` - matching configuration file.
 - `BUILD_NOTES.md` - build notes and root-cause summary.
 - `CHANGELOG.md` - Nexus/GitHub-facing changelog.
 
